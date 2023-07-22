@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:test1/authentication/login_screen.dart';
 import 'package:test1/homeScreen/homeScreen.dart';
 import 'package:test1/splash_screen/splash_screen.dart';
+import 'package:test1/todo_list_app/ui/todo_list.dart';
 
 import 'authentication/signup_screen.dart';
 
@@ -26,6 +27,7 @@ class MyApp extends StatelessWidget {
         '/home' : (context) => const HomeScreen(),
         '/login' : (context) => const LoginScreen(),
         '/signup' : (context) => const SignupScreen(),
+        '/todoList' : (context) => const TodoList(),
       },
     );
   }
