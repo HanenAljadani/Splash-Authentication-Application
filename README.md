@@ -4,6 +4,8 @@ A new Flutter project.
 ## User interfaces of the application 
 
 * Splash page
+
+  
 ![Screen Shot 1444-12-28 at 9 52 06 PM](https://github.com/HanenAljadani/Splash-Authentication-Application/assets/98253428/fd2a1e10-b5c2-4ff5-8e08-9aae547368a6)
 
 
