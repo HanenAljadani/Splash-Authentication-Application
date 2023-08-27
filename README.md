@@ -1,6 +1,27 @@
 # Splash&Authentication and todo list API
 
 A new Flutter project.
+## UI 
+
+* Splash page
+![Screen Shot 1444-12-28 at 9 52 06 PM](https://github.com/HanenAljadani/Splash-Authentication-Application/assets/98253428/fd2a1e10-b5c2-4ff5-8e08-9aae547368a6)
+
+
+
+* Signup  & Login Pages
+
+![Screen Shot 1444-12-28 at 9 52 15 PM](https://github.com/HanenAljadani/Splash-Authentication-Application/assets/98253428/0d8583c1-7cee-4d49-9437-9e52b1b75b6b)
+
+
+![Screen Shot 1444-12-28 at 9 52 11 PM 7 29 24 PM](https://github.com/HanenAljadani/Splash-Authentication-Application/assets/98253428/7b29f896-1c43-4e5e-88c5-2372aefea81d)
+
+
+* Using public todo list API 
+
+![2](https://github.com/HanenAljadani/Splash-Authentication-Application/assets/98253428/87ee6d08-c2b2-4130-887f-51b75dd41a3d)
+
+
+
 
 ## Getting Started
 
